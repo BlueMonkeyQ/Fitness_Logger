@@ -1,0 +1,1 @@
+# Handle Schema for FastApi
