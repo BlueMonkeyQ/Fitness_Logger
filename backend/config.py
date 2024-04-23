@@ -1,2 +1,0 @@
-url = "https://lblfurcaszlwkmtfegfs.supabase.co"
-key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxibGZ1cmNhc3psd2ttdGZlZ2ZzIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxMzMyMzQ3NCwiZXhwIjoyMDI4ODk5NDc0fQ.cDkJaDeydT1xnb2C8T5-Ccu3apN57wsujfEUrPakmQA"
